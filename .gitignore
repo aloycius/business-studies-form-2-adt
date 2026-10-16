@@ -1,0 +1,21 @@
+# Local source and processing state must never be published.
+*.pdf
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+.env
+.env.*
+*.pem
+*.key
+.cache/
+cache/
+logs/
+llm-logs/
+entities/
+versions/
+node_modules/
+audit/
+screenshots/
+config.yaml
+.DS_Store
