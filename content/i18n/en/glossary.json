@@ -1,0 +1,2464 @@
+{
+  "ABC analysis": {
+    "word": "ABC analysis",
+    "definition": "A method of grouping inventory into A, B, and C based on how valuable the items are.",
+    "variations": [
+      "ABC analysis",
+      "ABC analyses"
+    ],
+    "emoji": "🔤📊",
+    "id": "gl001"
+  },
+  "accessibility": {
+    "word": "accessibility",
+    "definition": "the ease of getting or using something",
+    "variations": [],
+    "emoji": "🚪✅",
+    "id": "gl002"
+  },
+  "accountability": {
+    "word": "accountability",
+    "definition": "the duty to explain and take responsibility for how money or work is managed",
+    "variations": [
+      "accountability",
+      "accountable"
+    ],
+    "emoji": "✅📘",
+    "id": "gl003"
+  },
+  "accounting": {
+    "word": "accounting",
+    "definition": "the work of recording, organizing, and checking money coming in and going out",
+    "variations": [
+      "account",
+      "accounts",
+      "accounting",
+      "accountant",
+      "accountants"
+    ],
+    "emoji": "📒💵",
+    "id": "gl004"
+  },
+  "administration": {
+    "word": "administration",
+    "definition": "the work of managing and organising business activities",
+    "variations": [
+      "administrative"
+    ],
+    "emoji": "🏢🗃️",
+    "id": "gl005"
+  },
+  "administrative burden": {
+    "word": "administrative burden",
+    "definition": "extra office work and record work needed to manage something",
+    "variations": [],
+    "emoji": "🗂️✍️",
+    "id": "gl006"
+  },
+  "administrative costs": {
+    "word": "administrative costs",
+    "definition": "the everyday costs of running a business, such as salaries and bills",
+    "variations": [
+      "administrative cost",
+      "administrative costs"
+    ],
+    "emoji": "🧾💸",
+    "id": "gl007"
+  },
+  "allocate": {
+    "word": "allocate",
+    "definition": "to divide money or resources for different uses",
+    "variations": [
+      "allocate",
+      "allocates",
+      "allocated",
+      "allocating",
+      "allocation"
+    ],
+    "emoji": "🧮📊",
+    "id": "gl008"
+  },
+  "Artificial Intelligence": {
+    "word": "Artificial Intelligence",
+    "definition": "computer technology that can perform tasks that usually need human thinking",
+    "variations": [
+      "Artificial Intelligence",
+      "AI"
+    ],
+    "emoji": "🤖🧠",
+    "id": "gl009"
+  },
+  "assets": {
+    "word": "assets",
+    "definition": "valuable things a person or business owns",
+    "variations": [
+      "asset",
+      "assets"
+    ],
+    "emoji": "🏠💎",
+    "id": "gl010"
+  },
+  "automation": {
+    "word": "automation",
+    "definition": "the use of machines or technology to do work automatically",
+    "variations": [
+      "automation",
+      "automated"
+    ],
+    "emoji": "🤖⚙️",
+    "id": "gl011"
+  },
+  "barcode": {
+    "word": "barcode",
+    "definition": "A pattern of lines or numbers that can be scanned to identify a product quickly.",
+    "variations": [
+      "barcode",
+      "barcodes"
+    ],
+    "emoji": "🏷️📱",
+    "id": "gl012"
+  },
+  "bibliography": {
+    "word": "bibliography",
+    "definition": "a list of books, articles, and other sources used to get information for a book or study",
+    "variations": [
+      "bibliography",
+      "bibliographies"
+    ],
+    "emoji": "📚📝",
+    "id": "gl013"
+  },
+  "bin card": {
+    "word": "bin card",
+    "definition": "A record used to show the quantity of a specific item in storage and the movement of that item in and out.",
+    "variations": [
+      "bin card",
+      "bin cards"
+    ],
+    "emoji": "🗂️📦",
+    "id": "gl014"
+  },
+  "biodegradable": {
+    "word": "biodegradable",
+    "definition": "able to break down naturally without causing much harm to the environment",
+    "variations": [
+      "biodegradable"
+    ],
+    "emoji": "🍃🌍",
+    "id": "gl015"
+  },
+  "bonded warehouse": {
+    "word": "bonded warehouse",
+    "definition": "A warehouse where imported goods are stored until customs duties are paid.",
+    "variations": [
+      "bonded warehouse",
+      "bonded warehouses"
+    ],
+    "emoji": "🏬🌍📦",
+    "id": "gl016"
+  },
+  "budget": {
+    "word": "budget",
+    "definition": "a plan that shows how money will be spent and managed",
+    "variations": [
+      "budgets",
+      "budgeting"
+    ],
+    "emoji": "📋💰",
+    "id": "gl017"
+  },
+  "budgeting": {
+    "word": "budgeting",
+    "definition": "the process of planning how money will be used or spent",
+    "variations": [
+      "budget",
+      "budgets",
+      "budgeting",
+      "budgeted"
+    ],
+    "emoji": "💰📊",
+    "id": "gl018"
+  },
+  "business opportunity": {
+    "word": "business opportunity",
+    "definition": "a chance to start or improve a business by providing goods or services that people need or want",
+    "variations": [
+      "business opportunity",
+      "business opportunities"
+    ],
+    "emoji": "💼🌍",
+    "id": "gl019"
+  },
+  "buying habits": {
+    "word": "buying habits",
+    "definition": "the usual ways people choose and buy goods or services",
+    "variations": [
+      "buying habit",
+      "buying habits"
+    ],
+    "emoji": "🛒📅",
+    "id": "gl020"
+  },
+  "capital": {
+    "word": "capital",
+    "definition": "money, tools, or equipment used to produce goods and services",
+    "variations": [
+      "capital",
+      "capitals"
+    ],
+    "emoji": "💰🏗️",
+    "id": "gl021"
+  },
+  "capital investment": {
+    "word": "capital investment",
+    "definition": "money put into a business to help it start or grow",
+    "variations": [
+      "capital investment",
+      "capital investments",
+      "investment",
+      "investments"
+    ],
+    "emoji": "💸🏭",
+    "id": "gl022"
+  },
+  "cash book": {
+    "word": "cash book",
+    "definition": "a book used to record all cash received and cash paid by a business",
+    "variations": [
+      "cash books"
+    ],
+    "emoji": "📒💵",
+    "id": "gl023"
+  },
+  "cash flow": {
+    "word": "cash flow",
+    "definition": "the movement of money coming into and going out of a business",
+    "variations": [
+      "cash flows"
+    ],
+    "emoji": "💵🔄",
+    "id": "gl024"
+  },
+  "cash payments": {
+    "word": "cash payments",
+    "definition": "money paid out by a business for goods, services, or other costs",
+    "variations": [
+      "cash payment"
+    ],
+    "emoji": "💸➡️",
+    "id": "gl025"
+  },
+  "cash receipt": {
+    "word": "cash receipt",
+    "definition": "money received by a person or business",
+    "variations": [
+      "cash receipt",
+      "cash receipts"
+    ],
+    "emoji": "💵📥",
+    "id": "gl026"
+  },
+  "cash receipts": {
+    "word": "cash receipts",
+    "definition": "money received by a business, usually from sales or payments",
+    "variations": [
+      "cash receipt"
+    ],
+    "emoji": "💵⬅️",
+    "id": "gl027"
+  },
+  "climate-controlled warehouse": {
+    "word": "climate-controlled warehouse",
+    "definition": "A warehouse with temperature or weather control to protect sensitive goods.",
+    "variations": [
+      "climate-controlled warehouse",
+      "climate-controlled warehouses"
+    ],
+    "emoji": "🌡️🏬❄️",
+    "id": "gl028"
+  },
+  "closing balance": {
+    "word": "closing balance",
+    "definition": "the amount of money left in an account or cash book at the end of a period",
+    "variations": [
+      "closing balances"
+    ],
+    "emoji": "🔚💰",
+    "id": "gl029"
+  },
+  "collaboration": {
+    "word": "collaboration",
+    "definition": "working together with others to achieve a goal",
+    "variations": [
+      "collaboration",
+      "collaborate"
+    ],
+    "emoji": "🤝👥",
+    "id": "gl030"
+  },
+  "collateral": {
+    "word": "collateral",
+    "definition": "property or valuables promised to a lender as security for a loan",
+    "variations": [
+      "collateral"
+    ],
+    "emoji": "🏠🔒",
+    "id": "gl031"
+  },
+  "commerce": {
+    "word": "commerce",
+    "definition": "the activity of buying and selling goods and services",
+    "variations": [
+      "commerce",
+      "commercial"
+    ],
+    "emoji": "🛍️🤝",
+    "id": "gl032"
+  },
+  "community": {
+    "word": "community",
+    "definition": "a group of people living in the same area or sharing common interests",
+    "variations": [
+      "community",
+      "communities"
+    ],
+    "emoji": "🏘️👥",
+    "id": "gl033"
+  },
+  "competition": {
+    "word": "competition",
+    "definition": "the struggle between businesses to attract the same customers",
+    "variations": [
+      "competition"
+    ],
+    "emoji": "🏁💼",
+    "id": "gl034"
+  },
+  "competitive advantage": {
+    "word": "competitive advantage",
+    "definition": "something that helps a business do better than other businesses",
+    "variations": [],
+    "emoji": "🏆📊",
+    "id": "gl035"
+  },
+  "competitor": {
+    "word": "competitor",
+    "definition": "a person or business that sells similar goods or services and tries to attract the same customers",
+    "variations": [
+      "competitor",
+      "competitors"
+    ],
+    "emoji": "🏪⚔️",
+    "id": "gl036"
+  },
+  "consumer": {
+    "word": "consumer",
+    "definition": "a person who buys or uses goods and services",
+    "variations": [
+      "consumer",
+      "consumers"
+    ],
+    "emoji": "🛒👤",
+    "id": "gl037"
+  },
+  "consumer demand": {
+    "word": "consumer demand",
+    "definition": "the amount of goods or services that customers want to buy",
+    "variations": [
+      "consumer demand",
+      "demands"
+    ],
+    "emoji": "🛒📈",
+    "id": "gl038"
+  },
+  "consumers": {
+    "word": "consumers",
+    "definition": "people who use or buy goods and services",
+    "variations": [
+      "consumer",
+      "consumers"
+    ],
+    "emoji": "🛒👥",
+    "id": "gl039"
+  },
+  "consumption": {
+    "word": "consumption",
+    "definition": "the use of goods and services to satisfy needs or wants",
+    "variations": [
+      "consumption",
+      "consume",
+      "consumed",
+      "consuming"
+    ],
+    "emoji": "🍽️🛒",
+    "id": "gl040"
+  },
+  "controlling": {
+    "word": "controlling",
+    "definition": "checking work to make sure plans are followed and correcting mistakes",
+    "variations": [
+      "control",
+      "controls",
+      "controlled"
+    ],
+    "emoji": "✅🛠️",
+    "id": "gl041"
+  },
+  "cooperative": {
+    "word": "cooperative",
+    "definition": "an organisation owned and run by people who work together for a common benefit",
+    "variations": [
+      "cooperatives"
+    ],
+    "emoji": "🤝👥",
+    "id": "gl042"
+  },
+  "creativity": {
+    "word": "creativity",
+    "definition": "the ability to think of new and useful ideas",
+    "variations": [
+      "creativity",
+      "creative"
+    ],
+    "emoji": "🎨💡",
+    "id": "gl043"
+  },
+  "credit": {
+    "word": "credit",
+    "definition": "buying or selling now and paying later",
+    "variations": [
+      "credit",
+      "credits",
+      "on credit"
+    ],
+    "emoji": "🕒💰",
+    "id": "gl044"
+  },
+  "credit score": {
+    "word": "credit score",
+    "definition": "a number that shows how reliable a person is at borrowing and repaying money",
+    "variations": [
+      "credit score",
+      "credit scores"
+    ],
+    "emoji": "🔢🏦",
+    "id": "gl045"
+  },
+  "customer preference": {
+    "word": "customer preference",
+    "definition": "what customers like or choose more than other options",
+    "variations": [
+      "customer preference",
+      "customer preferences"
+    ],
+    "emoji": "🧑‍🤝‍🧑👍",
+    "id": "gl046"
+  },
+  "customer retention": {
+    "word": "customer retention",
+    "definition": "the ability of a business to keep its customers coming back",
+    "variations": [],
+    "emoji": "🤝🛍️",
+    "id": "gl047"
+  },
+  "customers": {
+    "word": "customers",
+    "definition": "people who buy goods or services from a business",
+    "variations": [
+      "customer",
+      "customers"
+    ],
+    "emoji": "🧑‍🤝‍🧑🛍️",
+    "id": "gl048"
+  },
+  "customs duties": {
+    "word": "customs duties",
+    "definition": "taxes paid on goods brought into a country",
+    "variations": [
+      "customs duty",
+      "customs duties"
+    ],
+    "emoji": "🌍💵",
+    "id": "gl049"
+  },
+  "customs duty": {
+    "word": "customs duty",
+    "definition": "A tax paid on goods brought into a country.",
+    "variations": [
+      "customs duty",
+      "customs duties"
+    ],
+    "emoji": "💵🌍",
+    "id": "gl050"
+  },
+  "debt": {
+    "word": "debt",
+    "definition": "money that a person or business owes to someone else",
+    "variations": [
+      "debts"
+    ],
+    "emoji": "💳⚠️",
+    "id": "gl051"
+  },
+  "decision-making": {
+    "word": "decision-making",
+    "definition": "the process of choosing what to do after thinking about different options",
+    "variations": [
+      "decision-making",
+      "decision making"
+    ],
+    "emoji": "🤔✅",
+    "id": "gl052"
+  },
+  "deferred payment": {
+    "word": "deferred payment",
+    "definition": "an agreement that allows a buyer to get goods or services now and pay later",
+    "variations": [
+      "deferred payments"
+    ],
+    "emoji": "📅💳",
+    "id": "gl053"
+  },
+  "delivery note": {
+    "word": "delivery note",
+    "definition": "A document sent with goods to show the items and quantities delivered to a customer.",
+    "variations": [
+      "delivery note",
+      "delivery notes"
+    ],
+    "emoji": "🚚📄",
+    "id": "gl054"
+  },
+  "demand": {
+    "word": "demand",
+    "definition": "the desire and willingness of people to buy a product or service",
+    "variations": [
+      "demand",
+      "demands"
+    ],
+    "emoji": "🛍️📈",
+    "id": "gl055"
+  },
+  "depreciate": {
+    "word": "depreciate",
+    "definition": "to decrease in value over time",
+    "variations": [
+      "depreciate",
+      "depreciates",
+      "depreciated",
+      "depreciation"
+    ],
+    "emoji": "📉💔",
+    "id": "gl056"
+  },
+  "direct production": {
+    "word": "direct production",
+    "definition": "making goods or services for your own use or personal consumption",
+    "variations": [
+      "direct production"
+    ],
+    "emoji": "🏠🧺",
+    "id": "gl057"
+  },
+  "directing": {
+    "word": "directing",
+    "definition": "leading and guiding people so they can work toward business goals",
+    "variations": [
+      "direct",
+      "directs",
+      "directed"
+    ],
+    "emoji": "👉🎯",
+    "id": "gl058"
+  },
+  "distribution": {
+    "word": "distribution",
+    "definition": "the process of moving goods to sellers or customers",
+    "variations": [
+      "distribution",
+      "distributions"
+    ],
+    "emoji": "🚛📍",
+    "id": "gl059"
+  },
+  "distribution centre": {
+    "word": "distribution centre",
+    "definition": "A place where goods are received, sorted, and quickly sent out to customers or shops.",
+    "variations": [
+      "distribution centre",
+      "distribution centres",
+      "distribution center",
+      "distribution centers"
+    ],
+    "emoji": "🚚📦",
+    "id": "gl060"
+  },
+  "documentation": {
+    "word": "documentation",
+    "definition": "Written or digital records used to give proof or information about business activities.",
+    "variations": [
+      "documentation",
+      "documentations"
+    ],
+    "emoji": "📄🖊️",
+    "id": "gl061"
+  },
+  "economic development": {
+    "word": "economic development",
+    "definition": "growth in the economy that improves people’s lives and business activities",
+    "variations": [
+      "economic development"
+    ],
+    "emoji": "📈🌍",
+    "id": "gl062"
+  },
+  "economics": {
+    "word": "economics",
+    "definition": "the study of how money, goods, and services are produced, shared, and used",
+    "variations": [
+      "economic",
+      "economical",
+      "economics",
+      "economist",
+      "economists"
+    ],
+    "emoji": "📈💹",
+    "id": "gl063"
+  },
+  "economy": {
+    "word": "economy",
+    "definition": "the system of producing, selling, and using goods and services in a country or area",
+    "variations": [
+      "economy",
+      "economies",
+      "economic"
+    ],
+    "emoji": "📊🌐",
+    "id": "gl064"
+  },
+  "employment": {
+    "word": "employment",
+    "definition": "having paid work or jobs",
+    "variations": [
+      "employment",
+      "employ"
+    ],
+    "emoji": "💼👥",
+    "id": "gl065"
+  },
+  "entrepreneur": {
+    "word": "entrepreneur",
+    "definition": "a person who starts and runs a business",
+    "variations": [
+      "entrepreneur",
+      "entrepreneurs"
+    ],
+    "emoji": "🧑‍💼🚀",
+    "id": "gl066"
+  },
+  "entrepreneurial": {
+    "word": "entrepreneurial",
+    "definition": "related to starting and running a business, often by taking risks to make a profit",
+    "variations": [
+      "entrepreneur",
+      "entrepreneurs",
+      "entrepreneurial",
+      "entrepreneurship"
+    ],
+    "emoji": "🚀💼",
+    "id": "gl067"
+  },
+  "entrepreneurship": {
+    "word": "entrepreneurship",
+    "definition": "the ability to start and manage a business by using ideas and taking risks",
+    "variations": [
+      "entrepreneurship",
+      "entrepreneur",
+      "entrepreneurs"
+    ],
+    "emoji": "💡🚀",
+    "id": "gl068"
+  },
+  "environmental protection": {
+    "word": "environmental protection",
+    "definition": "actions taken to keep nature clean and safe from harm",
+    "variations": [
+      "environmental protection"
+    ],
+    "emoji": "🌱🌍",
+    "id": "gl069"
+  },
+  "environmental sustainability": {
+    "word": "environmental sustainability",
+    "definition": "using resources in a careful way so the environment stays safe for the future",
+    "variations": [
+      "environmental sustainability",
+      "sustainability",
+      "sustainable"
+    ],
+    "emoji": "🌱♻️",
+    "id": "gl070"
+  },
+  "equity investment": {
+    "word": "equity investment",
+    "definition": "money put into a business in exchange for ownership or a share in it",
+    "variations": [
+      "equity investments"
+    ],
+    "emoji": "📈🤝",
+    "id": "gl071"
+  },
+  "expenditure": {
+    "word": "expenditure",
+    "definition": "money spent on running a business or meeting needs",
+    "variations": [
+      "expenditure",
+      "expenditures"
+    ],
+    "emoji": "💸🧾",
+    "id": "gl072"
+  },
+  "expense": {
+    "word": "expense",
+    "definition": "a cost that a person or business must pay",
+    "variations": [
+      "expense",
+      "expenses"
+    ],
+    "emoji": "💳💸",
+    "id": "gl073"
+  },
+  "expiration date": {
+    "word": "expiration date",
+    "definition": "the date after which a product should not be used or sold",
+    "variations": [
+      "expiration date",
+      "expiration dates"
+    ],
+    "emoji": "📅⏰",
+    "id": "gl074"
+  },
+  "factors of production": {
+    "word": "factors of production",
+    "definition": "the main resources needed to produce goods and services, such as land, labour, capital, and entrepreneurship",
+    "variations": [
+      "factor of production",
+      "factors of production"
+    ],
+    "emoji": "🏭🌍💼",
+    "id": "gl075"
+  },
+  "feasibility": {
+    "word": "feasibility",
+    "definition": "the possibility that an idea or plan can work well in practice",
+    "variations": [
+      "feasibility",
+      "feasible"
+    ],
+    "emoji": "🤔✅",
+    "id": "gl076"
+  },
+  "financial control": {
+    "word": "financial control",
+    "definition": "checking and managing spending and records so money is used properly",
+    "variations": [
+      "financial control",
+      "financial controls"
+    ],
+    "emoji": "🔍💵",
+    "id": "gl077"
+  },
+  "financial leverage": {
+    "word": "financial leverage",
+    "definition": "using borrowed money to make bigger investments than your own cash allows",
+    "variations": [
+      "financial leverage",
+      "leverage"
+    ],
+    "emoji": "📈💳",
+    "id": "gl078"
+  },
+  "financial liberation": {
+    "word": "financial liberation",
+    "definition": "freedom from money problems because a person can earn and manage their own income",
+    "variations": [
+      "financial liberation"
+    ],
+    "emoji": "💰🔓",
+    "id": "gl079"
+  },
+  "financial literacy": {
+    "word": "financial literacy",
+    "definition": "the ability to understand and use money matters wisely",
+    "variations": [],
+    "emoji": "📚💰",
+    "id": "gl080"
+  },
+  "financial management": {
+    "word": "financial management",
+    "definition": "the planning and control of money in a business or family",
+    "variations": [
+      "financial management"
+    ],
+    "emoji": "💼💰",
+    "id": "gl081"
+  },
+  "financial performance": {
+    "word": "financial performance",
+    "definition": "how well a business is doing in making income, controlling costs, and earning profit",
+    "variations": [
+      "financial performance"
+    ],
+    "emoji": "📊🏪",
+    "id": "gl082"
+  },
+  "financial records": {
+    "word": "financial records",
+    "definition": "written information about money coming into and going out of a business",
+    "variations": [
+      "financial record",
+      "financial records"
+    ],
+    "emoji": "📒💵",
+    "id": "gl083"
+  },
+  "financial reporting": {
+    "word": "financial reporting",
+    "definition": "preparing and sharing records that show the financial condition of a business",
+    "variations": [
+      "financial reporting"
+    ],
+    "emoji": "📄📊",
+    "id": "gl084"
+  },
+  "financial target": {
+    "word": "financial target",
+    "definition": "a money goal that a person or business plans to achieve",
+    "variations": [
+      "financial target",
+      "financial targets"
+    ],
+    "emoji": "🎯💰",
+    "id": "gl085"
+  },
+  "financing": {
+    "word": "financing",
+    "definition": "the act of getting money to start, run, or grow a business",
+    "variations": [
+      "finance",
+      "finances",
+      "financed"
+    ],
+    "emoji": "💰🏢",
+    "id": "gl086"
+  },
+  "finished goods": {
+    "word": "finished goods",
+    "definition": "products that are completed and ready to be sold",
+    "variations": [
+      "finished good",
+      "finished goods"
+    ],
+    "emoji": "✅📦",
+    "id": "gl087"
+  },
+  "finished products": {
+    "word": "finished products",
+    "definition": "goods that are completed and ready to be used or sold",
+    "variations": [
+      "finished product",
+      "finished products"
+    ],
+    "emoji": "✅📦",
+    "id": "gl088"
+  },
+  "fluctuation": {
+    "word": "fluctuation",
+    "definition": "a change up and down over time",
+    "variations": [
+      "fluctuation",
+      "fluctuations"
+    ],
+    "emoji": "📊🔄",
+    "id": "gl089"
+  },
+  "forecasting": {
+    "word": "forecasting",
+    "definition": "making a careful guess about what may happen in the future",
+    "variations": [
+      "forecast",
+      "forecasts",
+      "forecasted"
+    ],
+    "emoji": "🔮📊",
+    "id": "gl090"
+  },
+  "forklift": {
+    "word": "forklift",
+    "definition": "a machine used to lift and move heavy goods in a warehouse",
+    "variations": [
+      "forklift",
+      "forklifts"
+    ],
+    "emoji": "🏗️📦",
+    "id": "gl091"
+  },
+  "fundraising": {
+    "word": "fundraising",
+    "definition": "the activity of collecting money for a purpose or project",
+    "variations": [
+      "fundraise",
+      "fundraises",
+      "fundraised"
+    ],
+    "emoji": "💰📣",
+    "id": "gl092"
+  },
+  "funds": {
+    "word": "funds",
+    "definition": "money available for a particular purpose",
+    "variations": [
+      "fund",
+      "funds"
+    ],
+    "emoji": "💰🏦",
+    "id": "gl093"
+  },
+  "goods": {
+    "word": "goods",
+    "definition": "physical things that are made or sold, such as clothes, bricks, or snacks",
+    "variations": [
+      "good",
+      "goods"
+    ],
+    "emoji": "📦🛍️",
+    "id": "gl094"
+  },
+  "goods received note": {
+    "word": "goods received note",
+    "definition": "A document prepared when goods are received from a supplier to show what was delivered and in what condition.",
+    "variations": [
+      "goods received note",
+      "goods received notes",
+      "GRN",
+      "GRNs"
+    ],
+    "emoji": "📄📦✅",
+    "id": "gl095"
+  },
+  "grading": {
+    "word": "grading",
+    "definition": "sorting goods into groups based on quality or size",
+    "variations": [
+      "grading"
+    ],
+    "emoji": "🅰️📦",
+    "id": "gl096"
+  },
+  "implementation": {
+    "word": "implementation",
+    "definition": "the act of putting a plan into action",
+    "variations": [
+      "implement",
+      "implements",
+      "implemented"
+    ],
+    "emoji": "⚙️🚀",
+    "id": "gl097"
+  },
+  "income": {
+    "word": "income",
+    "definition": "money received from work, business, or other activities",
+    "variations": [
+      "income",
+      "incomes"
+    ],
+    "emoji": "💵📈",
+    "id": "gl098"
+  },
+  "income statement": {
+    "word": "income statement",
+    "definition": "a financial report that shows income, expenses, and whether a business made a profit or loss over a period of time",
+    "variations": [
+      "income statement",
+      "income statements"
+    ],
+    "emoji": "📄📊",
+    "id": "gl099"
+  },
+  "independence": {
+    "word": "independence",
+    "definition": "the freedom to make your own decisions and control your own work or life",
+    "variations": [
+      "independence",
+      "independent"
+    ],
+    "emoji": "🕊️💪",
+    "id": "gl100"
+  },
+  "indirect production": {
+    "word": "indirect production",
+    "definition": "making goods or services mainly for selling to others",
+    "variations": [
+      "indirect production"
+    ],
+    "emoji": "🏪💸",
+    "id": "gl101"
+  },
+  "inflation": {
+    "word": "inflation",
+    "definition": "a rise in prices over time, which reduces the value of money",
+    "variations": [
+      "inflation"
+    ],
+    "emoji": "📈💵",
+    "id": "gl102"
+  },
+  "innovation": {
+    "word": "innovation",
+    "definition": "a new idea, method, or product that improves something",
+    "variations": [
+      "innovation",
+      "innovations",
+      "innovative"
+    ],
+    "emoji": "💡🚀",
+    "id": "gl103"
+  },
+  "input": {
+    "word": "input",
+    "definition": "something put into the production process, such as labour, land, or capital",
+    "variations": [
+      "input",
+      "inputs"
+    ],
+    "emoji": "⬇️🏭",
+    "id": "gl104"
+  },
+  "inputs": {
+    "word": "inputs",
+    "definition": "the resources used to make something, such as raw materials, labour, or money",
+    "variations": [
+      "input",
+      "inputs"
+    ],
+    "emoji": "⬅️🧱",
+    "id": "gl105"
+  },
+  "inspection": {
+    "word": "inspection",
+    "definition": "careful checking of goods to see their condition or quality",
+    "variations": [
+      "inspection",
+      "inspections"
+    ],
+    "emoji": "🔍📦",
+    "id": "gl106"
+  },
+  "interest": {
+    "word": "interest",
+    "definition": "extra money paid for borrowing money or charged for paying later",
+    "variations": [],
+    "emoji": "💲⏳",
+    "id": "gl107"
+  },
+  "interview": {
+    "word": "interview",
+    "definition": "a planned conversation used to get detailed information from someone",
+    "variations": [
+      "interview",
+      "interviews"
+    ],
+    "emoji": "🎤🗨️",
+    "id": "gl108"
+  },
+  "inventory": {
+    "word": "inventory",
+    "definition": "the goods and materials a business has for sale or use",
+    "variations": [
+      "inventory",
+      "inventories"
+    ],
+    "emoji": "📦📋",
+    "id": "gl109"
+  },
+  "inventory ledger": {
+    "word": "inventory ledger",
+    "definition": "A record book or file that shows all inventory transactions for a particular item.",
+    "variations": [
+      "inventory ledger",
+      "inventory ledgers",
+      "stock ledger",
+      "stock ledgers"
+    ],
+    "emoji": "📘📋",
+    "id": "gl110"
+  },
+  "inventory management": {
+    "word": "inventory management",
+    "definition": "the process of controlling stock so a business has the right amount of goods",
+    "variations": [
+      "inventory management"
+    ],
+    "emoji": "📦🗂️",
+    "id": "gl111"
+  },
+  "investment": {
+    "word": "investment",
+    "definition": "money put into a business or activity with the hope of getting profit or benefit later",
+    "variations": [
+      "investments",
+      "invest"
+    ],
+    "emoji": "📈💸",
+    "id": "gl112"
+  },
+  "investor": {
+    "word": "investor",
+    "definition": "a person or organisation that puts money into a business to help it grow and earn profit",
+    "variations": [
+      "investor",
+      "investors"
+    ],
+    "emoji": "💵📈",
+    "id": "gl113"
+  },
+  "issuing stock": {
+    "word": "issuing stock",
+    "definition": "giving out or releasing goods from storage",
+    "variations": [
+      "issuing stock"
+    ],
+    "emoji": "📤📦",
+    "id": "gl114"
+  },
+  "job creation": {
+    "word": "job creation",
+    "definition": "the making of new jobs for people to work in",
+    "variations": [
+      "job creation",
+      "jobs"
+    ],
+    "emoji": "👷💼",
+    "id": "gl115"
+  },
+  "journal": {
+    "word": "journal",
+    "definition": "a book or record where business transactions are written down in order",
+    "variations": [
+      "journal",
+      "journals"
+    ],
+    "emoji": "📘✍️",
+    "id": "gl116"
+  },
+  "labelling": {
+    "word": "labelling",
+    "definition": "putting names or information on products or packages",
+    "variations": [
+      "labelling",
+      "label",
+      "labels"
+    ],
+    "emoji": "🏷️📝",
+    "id": "gl117"
+  },
+  "labour": {
+    "word": "labour",
+    "definition": "the human effort used in making goods or providing services",
+    "variations": [
+      "labour",
+      "labours"
+    ],
+    "emoji": "👷💪",
+    "id": "gl118"
+  },
+  "land": {
+    "word": "land",
+    "definition": "natural resources and space used for production, such as soil, water, and fields",
+    "variations": [
+      "land",
+      "lands"
+    ],
+    "emoji": "🌍🌱",
+    "id": "gl119"
+  },
+  "ledger": {
+    "word": "ledger",
+    "definition": "a book or record used to keep business accounts and stock information",
+    "variations": [
+      "ledger",
+      "ledgers"
+    ],
+    "emoji": "📒✍️",
+    "id": "gl120"
+  },
+  "lender": {
+    "word": "lender",
+    "definition": "a person or institution that gives money to others as a loan",
+    "variations": [
+      "lender",
+      "lenders"
+    ],
+    "emoji": "🏦🤝",
+    "id": "gl121"
+  },
+  "liquid": {
+    "word": "liquid",
+    "definition": "easy to change into cash quickly",
+    "variations": [
+      "liquid",
+      "liquidity"
+    ],
+    "emoji": "💧💵",
+    "id": "gl122"
+  },
+  "living standard": {
+    "word": "living standard",
+    "definition": "the level of comfort and quality of life that people have",
+    "variations": [
+      "living standard",
+      "living standards",
+      "standard of living"
+    ],
+    "emoji": "🏠🍽️",
+    "id": "gl123"
+  },
+  "loan": {
+    "word": "loan",
+    "definition": "money borrowed from a person or institution that must be paid back, usually with interest",
+    "variations": [
+      "loans"
+    ],
+    "emoji": "💵🏦",
+    "id": "gl124"
+  },
+  "logistics": {
+    "word": "logistics",
+    "definition": "the planning and movement of goods from one place to another",
+    "variations": [
+      "logistics"
+    ],
+    "emoji": "🚚🗺️",
+    "id": "gl125"
+  },
+  "loss": {
+    "word": "loss",
+    "definition": "money a business loses when costs are more than income",
+    "variations": [
+      "losses"
+    ],
+    "emoji": "📉💸",
+    "id": "gl126"
+  },
+  "maintenance": {
+    "word": "maintenance",
+    "definition": "work done to keep equipment or buildings in good condition",
+    "variations": [
+      "maintenance"
+    ],
+    "emoji": "🔧🏭",
+    "id": "gl127"
+  },
+  "management": {
+    "word": "management",
+    "definition": "the process of planning, organising, and controlling work to achieve goals",
+    "variations": [
+      "manage",
+      "manages",
+      "managed"
+    ],
+    "emoji": "📋🧠",
+    "id": "gl128"
+  },
+  "manual": {
+    "word": "manual",
+    "definition": "done by human hands rather than by machines",
+    "variations": [
+      "manual",
+      "manually"
+    ],
+    "emoji": "✋🛠️",
+    "id": "gl129"
+  },
+  "manual inventory management": {
+    "word": "manual inventory management",
+    "definition": "A way of managing stock by counting and recording items by hand.",
+    "variations": [
+      "manual inventory management"
+    ],
+    "emoji": "✍️📦",
+    "id": "gl130"
+  },
+  "market": {
+    "word": "market",
+    "definition": "the place or system where buyers and sellers exchange goods or services",
+    "variations": [
+      "market",
+      "markets"
+    ],
+    "emoji": "🏪💹",
+    "id": "gl131"
+  },
+  "market research": {
+    "word": "market research",
+    "definition": "the process of collecting and studying information about customers, competitors, and the market",
+    "variations": [
+      "market research"
+    ],
+    "emoji": "📊🔍",
+    "id": "gl132"
+  },
+  "market trend": {
+    "word": "market trend",
+    "definition": "a general change or pattern in what customers want or buy over time",
+    "variations": [
+      "market trend",
+      "market trends"
+    ],
+    "emoji": "📈🛍️",
+    "id": "gl133"
+  },
+  "mechanical": {
+    "word": "mechanical",
+    "definition": "done with the help of machines or equipment",
+    "variations": [
+      "mechanical",
+      "mechanically"
+    ],
+    "emoji": "⚙️🤖",
+    "id": "gl134"
+  },
+  "mentorship": {
+    "word": "mentorship",
+    "definition": "guidance and advice given by a more experienced person",
+    "variations": [],
+    "emoji": "🧑‍🏫💡",
+    "id": "gl135"
+  },
+  "micro business": {
+    "word": "micro business",
+    "definition": "a very small business with very few workers and low capital",
+    "variations": [
+      "micro business",
+      "micro businesses"
+    ],
+    "emoji": "🏠🪙",
+    "id": "gl136"
+  },
+  "microeconomics": {
+    "word": "microeconomics",
+    "definition": "the part of economics that studies individual people, businesses, and small markets",
+    "variations": [
+      "microeconomics"
+    ],
+    "emoji": "🔍📊",
+    "id": "gl137"
+  },
+  "microfinancing": {
+    "word": "microfinancing",
+    "definition": "financial services such as small loans given to low-income people or small businesses",
+    "variations": [
+      "microfinance"
+    ],
+    "emoji": "🏦🤲",
+    "id": "gl138"
+  },
+  "mobile money": {
+    "word": "mobile money",
+    "definition": "a service that allows people to send, receive, or store money using a mobile phone",
+    "variations": [
+      "mobile money",
+      "money transfers"
+    ],
+    "emoji": "📱💸",
+    "id": "gl139"
+  },
+  "monitoring": {
+    "word": "monitoring",
+    "definition": "carefully watching and checking progress or performance",
+    "variations": [
+      "monitor",
+      "monitors",
+      "monitored"
+    ],
+    "emoji": "👀📋",
+    "id": "gl140"
+  },
+  "natural resources": {
+    "word": "natural resources",
+    "definition": "materials and features from nature that people use, such as water, soil, and trees",
+    "variations": [
+      "natural resource",
+      "natural resources"
+    ],
+    "emoji": "💧🌳",
+    "id": "gl141"
+  },
+  "needs": {
+    "word": "needs",
+    "definition": "important things that are necessary for living or running a business",
+    "variations": [
+      "need",
+      "needs"
+    ],
+    "emoji": "🍚🏠",
+    "id": "gl142"
+  },
+  "net profit": {
+    "word": "net profit",
+    "definition": "the profit left after all expenses are subtracted from total income",
+    "variations": [
+      "net profit",
+      "net profits"
+    ],
+    "emoji": "📈💵",
+    "id": "gl143"
+  },
+  "networking": {
+    "word": "networking",
+    "definition": "talking to and building relationships with people who can share useful information or support",
+    "variations": [
+      "networking",
+      "network"
+    ],
+    "emoji": "🗣️🤝",
+    "id": "gl144"
+  },
+  "observation": {
+    "word": "observation",
+    "definition": "carefully watching people, events, or situations to learn something",
+    "variations": [
+      "observation",
+      "observations"
+    ],
+    "emoji": "👀📝",
+    "id": "gl145"
+  },
+  "obstacle": {
+    "word": "obstacle",
+    "definition": "something that makes it difficult to achieve a goal",
+    "variations": [
+      "obstacle",
+      "obstacles"
+    ],
+    "emoji": "⛔🧗",
+    "id": "gl146"
+  },
+  "opening balance": {
+    "word": "opening balance",
+    "definition": "the amount of money in an account or cash book at the start of a period",
+    "variations": [
+      "opening balances"
+    ],
+    "emoji": "📂💰",
+    "id": "gl147"
+  },
+  "operating expenses": {
+    "word": "operating expenses",
+    "definition": "the regular costs of running a business",
+    "variations": [
+      "operating expense",
+      "operating expenses"
+    ],
+    "emoji": "🏪💸",
+    "id": "gl148"
+  },
+  "operations": {
+    "word": "operations",
+    "definition": "the daily activities needed to run a business",
+    "variations": [
+      "operation",
+      "operations"
+    ],
+    "emoji": "⚙️🏢",
+    "id": "gl149"
+  },
+  "opportunity": {
+    "word": "opportunity",
+    "definition": "a good chance to do something or achieve something",
+    "variations": [
+      "opportunity",
+      "opportunities"
+    ],
+    "emoji": "🌟🚪",
+    "id": "gl150"
+  },
+  "opportunity cost": {
+    "word": "opportunity cost",
+    "definition": "the value of the best other choice given up when you choose something",
+    "variations": [
+      "opportunity cost",
+      "opportunity costs"
+    ],
+    "emoji": "🛤️💡",
+    "id": "gl151"
+  },
+  "organising": {
+    "word": "organising",
+    "definition": "arranging people and resources in a proper way to reach goals",
+    "variations": [
+      "organise",
+      "organising",
+      "organized",
+      "organized"
+    ],
+    "emoji": "🗂️⚙️",
+    "id": "gl152"
+  },
+  "outputs": {
+    "word": "outputs",
+    "definition": "the final goods or results produced from a process",
+    "variations": [
+      "output",
+      "outputs"
+    ],
+    "emoji": "➡️📦",
+    "id": "gl153"
+  },
+  "overspending": {
+    "word": "overspending",
+    "definition": "spending more money than planned or available",
+    "variations": [
+      "overspend",
+      "overspending",
+      "overspent"
+    ],
+    "emoji": "💸⚠️",
+    "id": "gl154"
+  },
+  "overstocking": {
+    "word": "overstocking",
+    "definition": "Keeping more goods than needed in the business.",
+    "variations": [
+      "overstocking",
+      "overstock"
+    ],
+    "emoji": "📦📦⚠️",
+    "id": "gl155"
+  },
+  "packaging": {
+    "word": "packaging",
+    "definition": "the materials and process used to wrap or contain products for sale or transport",
+    "variations": [
+      "packaging",
+      "package",
+      "packages"
+    ],
+    "emoji": "📦🎁",
+    "id": "gl156"
+  },
+  "passion": {
+    "word": "passion",
+    "definition": "a strong interest or love for an activity or idea",
+    "variations": [
+      "passion",
+      "passions"
+    ],
+    "emoji": "❤️🔥",
+    "id": "gl157"
+  },
+  "payment": {
+    "word": "payment",
+    "definition": "money given to pay for goods, services, or debts",
+    "variations": [
+      "payment",
+      "payments"
+    ],
+    "emoji": "💸📤",
+    "id": "gl158"
+  },
+  "periodic inventory system": {
+    "word": "periodic inventory system",
+    "definition": "A method of checking inventory at set times, such as weekly or monthly, instead of all the time.",
+    "variations": [
+      "periodic inventory system",
+      "periodic inventory systems"
+    ],
+    "emoji": "🗓️📋",
+    "id": "gl159"
+  },
+  "perishable goods": {
+    "word": "perishable goods",
+    "definition": "Goods that can spoil or go bad quickly, such as food.",
+    "variations": [
+      "perishable good",
+      "perishable goods"
+    ],
+    "emoji": "🥛🍎⏳",
+    "id": "gl160"
+  },
+  "perpetual inventory system": {
+    "word": "perpetual inventory system",
+    "definition": "A method that updates inventory records continuously, often using software.",
+    "variations": [
+      "perpetual inventory system",
+      "perpetual inventory systems"
+    ],
+    "emoji": "💻📦🔄",
+    "id": "gl161"
+  },
+  "personal savings": {
+    "word": "personal savings",
+    "definition": "money a person keeps for future use instead of spending it now",
+    "variations": [
+      "personal savings",
+      "saving",
+      "savings"
+    ],
+    "emoji": "🏦💰",
+    "id": "gl162"
+  },
+  "personnel": {
+    "word": "personnel",
+    "definition": "the people who work in an organisation or business",
+    "variations": [],
+    "emoji": "👥🏢",
+    "id": "gl163"
+  },
+  "physical inventory counting": {
+    "word": "physical inventory counting",
+    "definition": "counting the actual goods in storage to check stock records",
+    "variations": [
+      "physical inventory counting"
+    ],
+    "emoji": "🔢📦",
+    "id": "gl164"
+  },
+  "planning": {
+    "word": "planning",
+    "definition": "deciding in advance what to do and how to do it",
+    "variations": [
+      "plan",
+      "plans",
+      "planned"
+    ],
+    "emoji": "🧭📅",
+    "id": "gl165"
+  },
+  "price stabilisation": {
+    "word": "price stabilisation",
+    "definition": "keeping prices from changing too much over time",
+    "variations": [
+      "price stabilisation"
+    ],
+    "emoji": "💵⚖️",
+    "id": "gl166"
+  },
+  "private warehouse": {
+    "word": "private warehouse",
+    "definition": "a warehouse owned and used by a person or company for its own goods",
+    "variations": [
+      "private warehouse",
+      "private warehouses"
+    ],
+    "emoji": "🏬🔒",
+    "id": "gl167"
+  },
+  "producers": {
+    "word": "producers",
+    "definition": "people or businesses that make goods or provide services",
+    "variations": [
+      "producer",
+      "producers"
+    ],
+    "emoji": "🏭👨‍🏭",
+    "id": "gl168"
+  },
+  "product": {
+    "word": "product",
+    "definition": "something made or grown to be sold or used",
+    "variations": [
+      "product",
+      "products"
+    ],
+    "emoji": "📦🏷️",
+    "id": "gl169"
+  },
+  "production": {
+    "word": "production",
+    "definition": "the process of making goods or services from materials, effort, and other resources",
+    "variations": [
+      "production",
+      "productions",
+      "produce",
+      "producing",
+      "produced"
+    ],
+    "emoji": "🏭🛠️",
+    "id": "gl170"
+  },
+  "productivity": {
+    "word": "productivity",
+    "definition": "how well resources are used to produce goods or services",
+    "variations": [
+      "productivity",
+      "productive"
+    ],
+    "emoji": "⚙️📈",
+    "id": "gl171"
+  },
+  "profit": {
+    "word": "profit",
+    "definition": "the money left after all business costs are paid",
+    "variations": [
+      "profits",
+      "profitable",
+      "profitability"
+    ],
+    "emoji": "📈💵",
+    "id": "gl172"
+  },
+  "projected use of funds": {
+    "word": "projected use of funds",
+    "definition": "a plan showing how money received will be spent in a business",
+    "variations": [
+      "projected use of funds",
+      "funds"
+    ],
+    "emoji": "💰📊",
+    "id": "gl173"
+  },
+  "protective equipment": {
+    "word": "protective equipment",
+    "definition": "special clothing or tools worn to protect workers from injury",
+    "variations": [
+      "protective equipment"
+    ],
+    "emoji": "🧤🥾🦺",
+    "id": "gl174"
+  },
+  "public warehouse": {
+    "word": "public warehouse",
+    "definition": "a warehouse open for people or businesses to rent space for storage",
+    "variations": [
+      "public warehouse",
+      "public warehouses"
+    ],
+    "emoji": "🏢📦",
+    "id": "gl175"
+  },
+  "purchase order": {
+    "word": "purchase order",
+    "definition": "A formal document used to request goods or services from a supplier.",
+    "variations": [
+      "purchase order",
+      "purchase orders"
+    ],
+    "emoji": "🛒📄",
+    "id": "gl176"
+  },
+  "purchases": {
+    "word": "purchases",
+    "definition": "things that are bought, or the act of buying something",
+    "variations": [
+      "purchase",
+      "purchases",
+      "purchased",
+      "purchasing"
+    ],
+    "emoji": "🛒📦",
+    "id": "gl177"
+  },
+  "purchases day book": {
+    "word": "purchases day book",
+    "definition": "a record book used to write down daily goods bought on credit",
+    "variations": [
+      "purchases day books",
+      "purchase day book",
+      "purchase day books"
+    ],
+    "emoji": "🛒📗",
+    "id": "gl178"
+  },
+  "qualifications": {
+    "word": "qualifications",
+    "definition": "skills, knowledge, or certificates that make a person suitable for a job",
+    "variations": [
+      "qualification"
+    ],
+    "emoji": "🎓📄",
+    "id": "gl179"
+  },
+  "questionnaire": {
+    "word": "questionnaire",
+    "definition": "a set of written questions used to collect information from people",
+    "variations": [
+      "questionnaire",
+      "questionnaires"
+    ],
+    "emoji": "📄✍️",
+    "id": "gl180"
+  },
+  "raw materials": {
+    "word": "raw materials",
+    "definition": "basic natural or unfinished materials used to make other products",
+    "variations": [
+      "raw material",
+      "raw materials"
+    ],
+    "emoji": "🌾🪵",
+    "id": "gl181"
+  },
+  "receiving stock": {
+    "word": "receiving stock",
+    "definition": "accepting and checking goods delivered to a business or warehouse",
+    "variations": [
+      "receiving stock"
+    ],
+    "emoji": "📥📦",
+    "id": "gl182"
+  },
+  "record keeping": {
+    "word": "record keeping",
+    "definition": "the process of writing down and storing important business information",
+    "variations": [
+      "record-keeping"
+    ],
+    "emoji": "📝🗂️",
+    "id": "gl183"
+  },
+  "record-keeping": {
+    "word": "record-keeping",
+    "definition": "the practice of writing down and storing business information carefully",
+    "variations": [
+      "record-keeping",
+      "record keeping"
+    ],
+    "emoji": "📚🗃️",
+    "id": "gl184"
+  },
+  "refrigerator": {
+    "word": "refrigerator",
+    "definition": "a machine that keeps goods cold to prevent spoilage",
+    "variations": [
+      "refrigerator",
+      "refrigerators"
+    ],
+    "emoji": "❄️🥶",
+    "id": "gl185"
+  },
+  "reinvest": {
+    "word": "reinvest",
+    "definition": "to use profit again in the business to help it grow or improve",
+    "variations": [
+      "reinvest",
+      "reinvests",
+      "reinvested",
+      "reinvesting",
+      "reinvestment"
+    ],
+    "emoji": "🔁💵🌱",
+    "id": "gl186"
+  },
+  "rent": {
+    "word": "rent",
+    "definition": "payment made for the use of land or property",
+    "variations": [
+      "rent",
+      "rents",
+      "rental"
+    ],
+    "emoji": "🏠💸",
+    "id": "gl187"
+  },
+  "repayment": {
+    "word": "repayment",
+    "definition": "the act of paying back money that was borrowed",
+    "variations": [
+      "repay",
+      "repays",
+      "repaid"
+    ],
+    "emoji": "💸↩️",
+    "id": "gl188"
+  },
+  "resource": {
+    "word": "resource",
+    "definition": "something useful that can be used to make goods or provide services",
+    "variations": [
+      "resource",
+      "resources"
+    ],
+    "emoji": "🌿🧰",
+    "id": "gl189"
+  },
+  "resources": {
+    "word": "resources",
+    "definition": "useful things like money, materials, or people that help a business operate",
+    "variations": [
+      "resource"
+    ],
+    "emoji": "🧰📦",
+    "id": "gl190"
+  },
+  "restocking": {
+    "word": "restocking",
+    "definition": "ordering or adding new goods to replace sold or used stock",
+    "variations": [
+      "restocking",
+      "restock"
+    ],
+    "emoji": "🔄📦",
+    "id": "gl191"
+  },
+  "revenue": {
+    "word": "revenue",
+    "definition": "money received by a business or government",
+    "variations": [
+      "revenue",
+      "revenues"
+    ],
+    "emoji": "💰📈",
+    "id": "gl192"
+  },
+  "risk": {
+    "word": "risk",
+    "definition": "the chance of loss or failure in business",
+    "variations": [
+      "risk",
+      "risks",
+      "risky"
+    ],
+    "emoji": "⚠️🎲",
+    "id": "gl193"
+  },
+  "safety regulations": {
+    "word": "safety regulations",
+    "definition": "official rules made to keep people and property safe",
+    "variations": [
+      "safety regulation",
+      "safety regulations"
+    ],
+    "emoji": "🦺⚠️",
+    "id": "gl194"
+  },
+  "salary": {
+    "word": "salary",
+    "definition": "regular payment given to a worker, usually every month",
+    "variations": [
+      "salary",
+      "salaries"
+    ],
+    "emoji": "📅💰",
+    "id": "gl195"
+  },
+  "sales": {
+    "word": "sales",
+    "definition": "the activity of selling goods or services",
+    "variations": [
+      "sale",
+      "sales",
+      "sell",
+      "sells",
+      "selling",
+      "sold"
+    ],
+    "emoji": "🏪💸",
+    "id": "gl196"
+  },
+  "sales day book": {
+    "word": "sales day book",
+    "definition": "a record book used to write down daily sales made on credit",
+    "variations": [
+      "sales day books"
+    ],
+    "emoji": "🛍️📘",
+    "id": "gl197"
+  },
+  "saving": {
+    "word": "saving",
+    "definition": "the act of keeping part of your money for future use instead of spending it now",
+    "variations": [
+      "save",
+      "saves",
+      "saved",
+      "savings"
+    ],
+    "emoji": "💰🏦",
+    "id": "gl198"
+  },
+  "savings": {
+    "word": "savings",
+    "definition": "money kept for future use instead of spending it now",
+    "variations": [
+      "saving",
+      "savings",
+      "save",
+      "saves",
+      "saved"
+    ],
+    "emoji": "💰🏦",
+    "id": "gl199"
+  },
+  "scanner": {
+    "word": "scanner",
+    "definition": "A device used to read barcodes and record product information.",
+    "variations": [
+      "scanner",
+      "scanners"
+    ],
+    "emoji": "📱🔍",
+    "id": "gl200"
+  },
+  "semi-skilled labour": {
+    "word": "semi-skilled labour",
+    "definition": "work that needs some training and uses both mental and physical effort",
+    "variations": [
+      "semi-skilled labour"
+    ],
+    "emoji": "🧰🚗",
+    "id": "gl201"
+  },
+  "services": {
+    "word": "services",
+    "definition": "useful work done for people instead of making physical things",
+    "variations": [
+      "service",
+      "services"
+    ],
+    "emoji": "🤝🧰",
+    "id": "gl202"
+  },
+  "shipment": {
+    "word": "shipment",
+    "definition": "goods that are sent from one place to another",
+    "variations": [
+      "shipment",
+      "shipments"
+    ],
+    "emoji": "🚚📦",
+    "id": "gl203"
+  },
+  "skilled labour": {
+    "word": "skilled labour",
+    "definition": "work done by trained and educated people with special knowledge or skills",
+    "variations": [
+      "skilled labour"
+    ],
+    "emoji": "🎓🧠",
+    "id": "gl204"
+  },
+  "small business": {
+    "word": "small business",
+    "definition": "a business owned and run by one person or a few people, usually with limited resources",
+    "variations": [
+      "small business",
+      "small businesses"
+    ],
+    "emoji": "🏪💼",
+    "id": "gl205"
+  },
+  "small-sized business": {
+    "word": "small-sized business",
+    "definition": "a business with a small number of workers and a small amount of capital",
+    "variations": [
+      "small-sized business",
+      "small-sized businesses",
+      "small business",
+      "small businesses"
+    ],
+    "emoji": "🏪📦",
+    "id": "gl206"
+  },
+  "smart warehouse": {
+    "word": "smart warehouse",
+    "definition": "a warehouse that uses technology and automation to handle goods",
+    "variations": [
+      "smart warehouse",
+      "smart warehouses"
+    ],
+    "emoji": "🤖🏬📦",
+    "id": "gl207"
+  },
+  "social benefit": {
+    "word": "social benefit",
+    "definition": "a positive effect a business or activity has on people in the community",
+    "variations": [
+      "social benefit",
+      "social benefits"
+    ],
+    "emoji": "🤝🌟",
+    "id": "gl208"
+  },
+  "sole proprietor": {
+    "word": "sole proprietor",
+    "definition": "a person who owns and runs a business alone",
+    "variations": [
+      "sole proprietor",
+      "sole proprietors",
+      "sole proprietorship"
+    ],
+    "emoji": "👤🏪",
+    "id": "gl209"
+  },
+  "spoilage": {
+    "word": "spoilage",
+    "definition": "damage or decay that makes goods no longer good to use or sell",
+    "variations": [
+      "spoilage"
+    ],
+    "emoji": "🦠📦",
+    "id": "gl210"
+  },
+  "staffing": {
+    "word": "staffing",
+    "definition": "the process of finding and placing the right people in jobs",
+    "variations": [
+      "staff"
+    ],
+    "emoji": "👥🧑‍💼",
+    "id": "gl211"
+  },
+  "stock": {
+    "word": "stock",
+    "definition": "Goods kept by a business so they are ready for sale or use.",
+    "variations": [
+      "stock",
+      "stocks"
+    ],
+    "emoji": "📦🛒",
+    "id": "gl212"
+  },
+  "stock control": {
+    "word": "stock control",
+    "definition": "checking and managing the quantity and value of goods in stock",
+    "variations": [
+      "stock control"
+    ],
+    "emoji": "📦✅",
+    "id": "gl213"
+  },
+  "stock turnover ratio": {
+    "word": "stock turnover ratio",
+    "definition": "A measure showing how often stock is sold and replaced during a certain period.",
+    "variations": [
+      "stock turnover ratio",
+      "stock turnover ratios"
+    ],
+    "emoji": "🔄📈",
+    "id": "gl214"
+  },
+  "stock valuation": {
+    "word": "stock valuation",
+    "definition": "finding the value of goods in stock at a certain time",
+    "variations": [
+      "stock valuation"
+    ],
+    "emoji": "💲📦",
+    "id": "gl215"
+  },
+  "stock valuation report": {
+    "word": "stock valuation report",
+    "definition": "A report that shows the total value of the inventory a business has.",
+    "variations": [
+      "stock valuation report",
+      "stock valuation reports"
+    ],
+    "emoji": "💰📊",
+    "id": "gl216"
+  },
+  "stock-take sheet": {
+    "word": "stock-take sheet",
+    "definition": "A document used to record the actual physical count of goods in stock.",
+    "variations": [
+      "stock-take sheet",
+      "stock-take sheets"
+    ],
+    "emoji": "📋🔢",
+    "id": "gl217"
+  },
+  "stock-taking": {
+    "word": "stock-taking",
+    "definition": "counting and recording all goods in stock",
+    "variations": [
+      "stock-taking"
+    ],
+    "emoji": "🔢📝",
+    "id": "gl218"
+  },
+  "stockout": {
+    "word": "stockout",
+    "definition": "A situation where a business runs out of an item that customers want to buy.",
+    "variations": [
+      "stockout",
+      "stockouts"
+    ],
+    "emoji": "❌📦",
+    "id": "gl219"
+  },
+  "storeroom": {
+    "word": "storeroom",
+    "definition": "a room used for keeping goods or supplies safely",
+    "variations": [
+      "storeroom",
+      "storerooms"
+    ],
+    "emoji": "🚪📦",
+    "id": "gl220"
+  },
+  "supplier": {
+    "word": "supplier",
+    "definition": "a person or business that provides goods or materials to another business",
+    "variations": [
+      "supplier",
+      "suppliers"
+    ],
+    "emoji": "🚚📦",
+    "id": "gl221"
+  },
+  "supply chain": {
+    "word": "supply chain",
+    "definition": "the system of people and activities involved in making and delivering goods",
+    "variations": [
+      "supply chain",
+      "supply chains"
+    ],
+    "emoji": "🔗📦🚚",
+    "id": "gl222"
+  },
+  "survey": {
+    "word": "survey",
+    "definition": "a method of asking people questions to gather information or opinions",
+    "variations": [
+      "survey",
+      "surveys"
+    ],
+    "emoji": "📋❓",
+    "id": "gl223"
+  },
+  "sustainability": {
+    "word": "sustainability",
+    "definition": "the ability of a business to continue operating well for a long time",
+    "variations": [
+      "sustainability",
+      "sustainable"
+    ],
+    "emoji": "🌱🏪",
+    "id": "gl224"
+  },
+  "target market": {
+    "word": "target market",
+    "definition": "the specific group of customers a business wants to sell to",
+    "variations": [
+      "target market",
+      "target markets"
+    ],
+    "emoji": "🎯🛍️",
+    "id": "gl225"
+  },
+  "tax": {
+    "word": "tax",
+    "definition": "money paid to the government to help provide public services",
+    "variations": [
+      "tax",
+      "taxes",
+      "taxation"
+    ],
+    "emoji": "💵🏛️",
+    "id": "gl226"
+  },
+  "tax compliance": {
+    "word": "tax compliance",
+    "definition": "following tax laws by keeping proper records and paying taxes correctly",
+    "variations": [
+      "tax compliance"
+    ],
+    "emoji": "🧾🏛️",
+    "id": "gl227"
+  },
+  "technological advancement": {
+    "word": "technological advancement",
+    "definition": "improvement in technology that makes things easier, faster, or better",
+    "variations": [
+      "technological advancement",
+      "technological advancements"
+    ],
+    "emoji": "💻⚙️",
+    "id": "gl228"
+  },
+  "technology": {
+    "word": "technology",
+    "definition": "tools, machines, and methods used to make work easier or better",
+    "variations": [
+      "technology",
+      "technologies"
+    ],
+    "emoji": "⚙️💻",
+    "id": "gl229"
+  },
+  "trade": {
+    "word": "trade",
+    "definition": "the buying and selling of goods and services",
+    "variations": [
+      "trade",
+      "trades"
+    ],
+    "emoji": "🔄🛒",
+    "id": "gl230"
+  },
+  "transaction": {
+    "word": "transaction",
+    "definition": "an act of buying, selling, or exchanging something",
+    "variations": [
+      "transaction",
+      "transactions"
+    ],
+    "emoji": "💳🤝",
+    "id": "gl231"
+  },
+  "transportation": {
+    "word": "transportation",
+    "definition": "the movement of people or goods from one place to another",
+    "variations": [
+      "transportation"
+    ],
+    "emoji": "🚚🚌",
+    "id": "gl232"
+  },
+  "unemployment": {
+    "word": "unemployment",
+    "definition": "a situation in which people who want to work cannot find jobs",
+    "variations": [
+      "unemployment"
+    ],
+    "emoji": "😟📉",
+    "id": "gl233"
+  },
+  "unmet needs": {
+    "word": "unmet needs",
+    "definition": "needs that people have but have not yet been satisfied",
+    "variations": [
+      "unmet need",
+      "unmet needs"
+    ],
+    "emoji": "❗🧩",
+    "id": "gl234"
+  },
+  "unskilled labour": {
+    "word": "unskilled labour",
+    "definition": "work that needs little or no formal training and mostly uses physical effort",
+    "variations": [
+      "unskilled labour"
+    ],
+    "emoji": "💪🧹",
+    "id": "gl235"
+  },
+  "upcycling": {
+    "word": "upcycling",
+    "definition": "making old or waste materials into new and more useful or attractive products",
+    "variations": [
+      "upcycling"
+    ],
+    "emoji": "♻️🧴",
+    "id": "gl236"
+  },
+  "utilities": {
+    "word": "utilities",
+    "definition": "basic services such as water, electricity, and communication needed for daily life or business",
+    "variations": [
+      "utility",
+      "utilities"
+    ],
+    "emoji": "💡🚰",
+    "id": "gl237"
+  },
+  "validate": {
+    "word": "validate",
+    "definition": "to check if an idea or result is correct, useful, or likely to succeed",
+    "variations": [
+      "validate",
+      "validating",
+      "validation"
+    ],
+    "emoji": "✔️🔎",
+    "id": "gl238"
+  },
+  "variance": {
+    "word": "variance",
+    "definition": "the difference between the budgeted amount and the actual amount",
+    "variations": [
+      "variance",
+      "variances"
+    ],
+    "emoji": "➖📊",
+    "id": "gl239"
+  },
+  "viable": {
+    "word": "viable",
+    "definition": "able to work successfully or likely to succeed",
+    "variations": [
+      "viable"
+    ],
+    "emoji": "✅🌱",
+    "id": "gl240"
+  },
+  "wage": {
+    "word": "wage",
+    "definition": "money paid to a worker for the work they do",
+    "variations": [
+      "wage",
+      "wages"
+    ],
+    "emoji": "💵👷",
+    "id": "gl241"
+  },
+  "wants": {
+    "word": "wants",
+    "definition": "things that are desired but not necessary",
+    "variations": [
+      "want",
+      "wants"
+    ],
+    "emoji": "🛍️✨",
+    "id": "gl242"
+  },
+  "warehouse": {
+    "word": "warehouse",
+    "definition": "A building or place where goods are kept safely before they are sold, used, or moved to another place.",
+    "variations": [
+      "warehouse",
+      "warehouses"
+    ],
+    "emoji": "🏬📦",
+    "id": "gl243"
+  },
+  "warehouse management": {
+    "word": "warehouse management",
+    "definition": "The process of supervising and controlling activities in a warehouse so goods are handled efficiently.",
+    "variations": [
+      "warehouse management"
+    ],
+    "emoji": "🏬📋✅",
+    "id": "gl244"
+  },
+  "warehousing": {
+    "word": "warehousing",
+    "definition": "The activities of receiving, storing, and preparing goods for delivery or sale.",
+    "variations": [
+      "warehousing"
+    ],
+    "emoji": "🏬📦",
+    "id": "gl245"
+  },
+  "water purification": {
+    "word": "water purification",
+    "definition": "the process of making water clean and safe to drink",
+    "variations": [
+      "water purification",
+      "purification"
+    ],
+    "emoji": "💧🫗",
+    "id": "gl246"
+  },
+  "work-in-progress": {
+    "word": "work-in-progress",
+    "definition": "products that have been started but are not yet finished",
+    "variations": [
+      "work-in-progress",
+      "WIP"
+    ],
+    "emoji": "🛠️⏳",
+    "id": "gl247"
+  }
+}

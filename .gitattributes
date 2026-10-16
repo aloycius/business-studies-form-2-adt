@@ -1,0 +1,3 @@
+# ADT generated output contains intentional whitespace in its templates.
+*.html -whitespace linguist-generated=true
+assets/fonts.css -whitespace linguist-generated=true

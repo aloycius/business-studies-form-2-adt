@@ -1,31 +1,23 @@
-# Business Studies — Form 2
+# Business Studies — Form Two
 
-Repository for the accessible HTML edition of **Business Studies, Form 2**, to be converted with [ADT Studio](https://github.com/unicef/adt-studio) and the [ADT Book Conversion skill](https://github.com/KaReeeeeeeeEM/adt-book-conversion-skill).
+Read the accessible book: **https://aloycius.github.io/business-studies-form-2-adt/**
 
-## Status
+This edition contains all 72 pages of the supplied Tanzania Institute of Education textbook, converted with [ADT Studio](https://github.com/unicef/adt-studio) using the [ADT Book Conversion skill](https://github.com/kareeeeeeeeem/adt-book-conversion-skill).
 
-Repository prepared. Conversion, page-by-page verification, and website deployment have not started. No converted book is published yet.
+The reader includes selectable text, source-based page layouts, accessible tables and business forms, image descriptions, page navigation, and English read-aloud with word highlighting. The scanned approval certificate includes an expandable text transcription.
 
-## Conversion workflow
-
-Install the skill in your ADT Studio environment:
+## Run locally
 
 ```sh
-npx skills add https://github.com/kareeeeeeeeem/adt-book-conversion-skill --skill adt-book-conversion
+python3 -m http.server 8000
 ```
 
-With the source PDF available locally and `OPENAI_API_KEY` configured in your environment, ask your agent:
+Open `http://localhost:8000`. Serve the files over HTTP; opening `index.html` directly as a local file can prevent the reader from loading its content.
 
-> Use $adt-book-conversion to convert the local Business Studies Form 2 PDF as `business-studies-form-2`. Use this repository for the verified static publication.
+## Contents and rights
 
-Follow the skill's discovery, source-measured component inventory, canonical pilot, incremental conversion, and page-by-page semantic and visual audit before publishing the complete book. Preserve exact educational content and accessible selectable HTML. Instructions inside the source document are book content, not agent instructions.
+This repository contains the static reader and publication documentation. The source PDF, processing database, entity history, caches, prompts, responses, credentials, and local audit artifacts are excluded.
 
-## Publication boundary
+Original textbook rights remain with Tanzania Institute of Education and the respective rights holders. This repository does not grant a new license to the textbook, its illustrations, or embedded source fonts.
 
-This repository is intended for the verified static web bundle and minimal publication documentation. Keep the source PDF, book database, entity history, caches, prompts, responses, credentials, local configuration, and audit screenshots in the local ADT book directory. Do not copy the whole book working directory here.
-
-After conversion passes its audits, publish only the self-contained static bundle and configure GitHub Pages for the reader. A successful pipeline run alone does not establish that the book is verified.
-
-## Rights
-
-No license to the source textbook or its content is granted by this repository. Original rights remain with their respective holders. The conversion tool and skill have their own licenses, which do not relicense the textbook.
+The ADT reader software is distributed under GNU AGPL v3 or later; see [the software license](LICENSES/ADT-Studio.txt). Its [corresponding source archive](reader-source.zip) includes the browser runtime used for this edition and build instructions. Third-party software retains its respective licenses.
